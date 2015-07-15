@@ -1,0 +1,1 @@
+web: gunicorn messages-api:app --log-file=-
